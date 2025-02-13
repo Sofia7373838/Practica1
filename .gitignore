@@ -1,2 +1,5 @@
-#Ignorammos archivo "log_prueba.txt"
-/log_prueba.txt
+#Ignorar archivos que terminen en .log
+*.log
+
+#Ignorar lo que esté dentro de modules
+modules/
